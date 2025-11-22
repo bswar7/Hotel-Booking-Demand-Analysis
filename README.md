@@ -66,29 +66,45 @@ This project supports strategic decisions on pricing, demand planning, staffing,
 ### 1) City hotels generate more bookings & revenue
 City Hotel revenue: €25.3M
 Resort Hotel revenue: €17.4M
+<img width="866" height="292" alt="image" src="https://github.com/user-attachments/assets/f3a1ccfe-bde5-469d-990b-eaf20bf28972" />
+
 
 ### 2) City Hotels have a higher cancellation rate
 City: 40.4%
 Resort: 27%
 Unpredictable behavior affects forecasting and planning.
+<img width="940" height="268" alt="image" src="https://github.com/user-attachments/assets/6979f3e1-e962-4493-9352-9212861ca79a" />
+
 
 ### 3) ADR peaks in Q3 (summer season)
 Note:
 2017 shows a drop because dataset stops at Q3, not full-year data.
+<img width="958" height="398" alt="image" src="https://github.com/user-attachments/assets/e72eeab0-5d6c-42e9-b516-69beebf77aa5" />
+
 
 ### 4) Longer lead times increase cancellation likelihood
 Early bookings = higher risk of cancellation.
+<img width="923" height="368" alt="image" src="https://github.com/user-attachments/assets/e845a4d7-b909-4409-8fdd-c55c1a380f41" />
+
 
 ### 5) Families with children form a small segment
 Lower family demand in both hotel types.
+<img width="722" height="391" alt="image" src="https://github.com/user-attachments/assets/c6bff823-e9a4-470c-bdc8-7c053c0e5a89" />
+
 
 ### 6) Transient guests dominate the market
 They form the largest customer group.
+<img width="828" height="354" alt="image" src="https://github.com/user-attachments/assets/cbe232a6-f83e-4203-a3ac-16d6dfac5493" />
+
 
 ### 7) Repeated guests = only 3%
 Indicates low loyalty and unstable long-term demand.
+<img width="920" height="387" alt="image" src="https://github.com/user-attachments/assets/ef5ec198-aea5-46b9-b37b-41453f772635" />
+
 
 ### 8) Non-refundable bookings show extremely high cancellations (99.1%)
+<img width="989" height="344" alt="image" src="https://github.com/user-attachments/assets/a8551332-683f-4a21-a2aa-690fffd9d70b" />
+
 Explanation:
 OTAs sometimes allow bookings with invalid or unverifiable card details.
 Hotels later try to charge → authorization fails → booking gets canceled.
