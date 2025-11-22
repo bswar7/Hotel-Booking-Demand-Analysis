@@ -25,4 +25,31 @@ Determine what drives customers to cancel their reservations.
 ### - Analyze ADR & seasonality trends
 See how pricing (ADR) and timing affect customer behavior.
 
+## Target Audience
+
+### - Hotel management teams
+### - Revenue & marketing analysts
+### - Hospitality / tourism researchers
+### - Operations managers & front-office teams
+
+This project supports strategic decisions on pricing, demand planning, staffing, and cancellation policies.
+
+## Dataset Description
+
+### The dataset includes:
+
+### - Guest behavior (adults, children, repeated guests)
+### - Booking details (lead time, stay duration, arrival dates)
+### - Pricing information (ADR, deposit type)
+### - Distribution channels
+### - Reservation status (Canceled / Not canceled)
+
+*Total rows:* 119,390
+*Time period:* 2015–2017
+
+### Hotels included:
+
+* - City Hotel — Lisbon*
+* - Resort Hotel — Algarve*
+
 
