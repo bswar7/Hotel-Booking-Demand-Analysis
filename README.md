@@ -13,7 +13,7 @@ The goal is to understand what affects cancellations, how booking behavior chang
 
 ## Objectives
 
-### - Analyze booking behavior
+#### - Analyze booking behavior
 Understand demand trends, customer segments, and pricing patterns.
 
 ### - Compare City and Resort hotels
@@ -38,18 +38,18 @@ This project supports strategic decisions on pricing, demand planning, staffing,
 
 ### The dataset includes:
 
-### - Guest behavior (adults, children, repeated guests)
-### - Booking details (lead time, stay duration, arrival dates)
-### - Pricing information (ADR, deposit type)
-### - Distribution channels
-### - Reservation status (Canceled / Not canceled)
+* Guest behavior (adults, children, repeated guests)
+* Booking details (lead time, stay duration, arrival dates)
+* Pricing information (ADR, deposit type)
+* Distribution channels
+* Reservation status (Canceled / Not canceled)
 
 *Total rows:* 119,390
 *Time period:* 2015–2017
 
 ### Hotels included:
 
-* - City Hotel — Lisbon*
-* - Resort Hotel — Algarve*
+* City Hotel — Lisbon
+* Resort Hotel — Algarve
 
 
