@@ -1,6 +1,5 @@
 # Hotel-Booking-Demand-Analysis
-
-## City Hotel (Lisbon) vs Resort Hotel (Algarve)
+City Hotel (Lisbon) vs Resort Hotel (Algarve)
 
 ## Project Overview
 
