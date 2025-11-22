@@ -14,16 +14,16 @@ The goal is to understand what affects cancellations, how booking behavior chang
 
 ## Objectives
 
-###- Analyze booking behavior
+### - Analyze booking behavior
 Understand demand trends, customer segments, and pricing patterns.
 
-###- Compare City and Resort hotels
+### - Compare City and Resort hotels
 Evaluate differences in booking volume, revenue, and cancellation behavior.
 
-###- Identify factors influencing cancellations
+### - Identify factors influencing cancellations
 Determine what drives customers to cancel their reservations.
 
-###- Analyze ADR & seasonality trends
+### - Analyze ADR & seasonality trends
 See how pricing (ADR) and timing affect customer behavior.
 
 
