@@ -2,6 +2,11 @@
 City Hotel (Lisbon) vs Resort Hotel (Algarve)
 
 
+
+<img width="731" height="379" alt="image" src="https://github.com/user-attachments/assets/f1774202-68e2-4572-a0db-5d51e3dc45d3" />
+
+
+
 ## Project Overview
 
 This project analyzes 119,390 hotel bookings collected from two real hotels in Portugal:
